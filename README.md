@@ -1,6 +1,6 @@
 # Ex.05 Design a Website for Server Side Processing
 ## Date:
-
+12.05.2024
 ## AIM:
 To design a website to find surface area of a Right Cylinder in server side.
 
@@ -152,11 +152,10 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![server-side-pr](https://github.com/Ravi-1105/MathServer/assets/139841688/606f03e7-5894-4947-ba32-647b14ddd3ef)
-
+![math-op1](https://github.com/Ravi-1105/MathServer/assets/139841688/0993f286-4cf7-4123-b39d-904cb602efd1)
 
 ## HOMEPAGE:
-![homepage-ex5](https://github.com/Ravi-1105/MathServer/assets/139841688/511391ad-fbdd-4be9-a423-28c143b3076b)
+![math-op2](https://github.com/Ravi-1105/MathServer/assets/139841688/9a05f9af-b67c-4c5e-8a8b-5a30e16031a4)
 
 
 ## RESULT:
