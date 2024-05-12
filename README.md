@@ -29,10 +29,10 @@ Create a HTML file to implement form based input and output.
 ### Step 6:
 Publish the website in the given URL.
 
+
 ## PROGRAM :
 ```
 <html>
-
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
